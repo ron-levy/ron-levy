@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning the architecture of AWS
 - 📫 How to reach me: ron.levy@lendai.us
 
-![logo-white](https://imgur.com/MPwKDa9)
+![logo-white](https://imgur.com/HSlMojY)
